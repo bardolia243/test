@@ -1,0 +1,5 @@
+{{#user}}
+Name: Faizan Bardolia
+Skills: AWS, Python, Linux, git, DevOps
+Email: bardolia243@gmail.com
+{{/user}}
